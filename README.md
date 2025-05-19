@@ -1,9 +1,11 @@
 ## Hi there 👋
+Data analyst with a background in architecture, focused on transforming data into solutions that create value in the financial, urban, and business sectors.
 
 <!--
 **mfcoronar/mfcoronar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
