@@ -1,15 +1,10 @@
 # Hi! I'm Fernanda  
 
 
-<h3 align="center">Kaggle Expert | Data Science | Machine Learning | Graphic Design </h3>
+<h3 align="center">Data Analyst | Machine Learning | Architect Designer </h3>
 
-Data analyst with a background in architecture, focused on transforming data into solutions that create value in the financial, urban, and business sectors.
-
-<!--
-**mfcoronar/mfcoronar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+<h4 align="center">Data analyst with a background in architecture, focused on transforming data into solutions that create value in the financial, urban, and business sectors.</h4>
+<br>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
