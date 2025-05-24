@@ -1,7 +1,7 @@
 
 ![Header](https://github.com/mfcoronar/mfcoronar/blob/main/Hi!ImFernanda.png)
 
-<h3 align="center">Data Analyst | Machine Learning | Architect Designer </h3>
+<h2 align="center">Data Analyst | Machine Learning | Architect Designer </h2>
 
 <h4 align="center">Data analyst with a background in architecture, focused on transforming data into solutions that create value in the financial, urban, and business sectors.</h4>
 <br>
@@ -15,7 +15,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Technology Stack 💻  </h1>
+<h2 align="center">Technology Stack 💻  </h2>
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
@@ -37,6 +37,15 @@
 ![Canva](https://img.shields.io/badge/-Canva-000000?style=flat&logo=canva&logoColor=00C4CC)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma&logoColor=F24E1E)
 
+<h2 align="center">GitHub Stats 📊  </h2>
+  
+![](https://github-readme-stats.vercel.app/api?username=mfcoronar&theme=neon&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mfcoronar&theme=neon&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mfcoronar&theme=neon&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<h2 align="center">Random Dev Quote ✍️  </h2>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
