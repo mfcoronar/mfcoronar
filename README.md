@@ -17,3 +17,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Technology Stack 💻  </h1>
+
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-000000?style=flat&logo=googlesheets&logoColor=34A853)
+![Excel](https://img.shields.io/badge/-Excel-000000?style=flat&logo=microsoft-excel&logoColor=217346)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-000000?style=flat&logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=plotly)
+![Seaborn](https://img.shields.io/badge/-Seaborn-000000?style=flat&logo=python)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=jupyter)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
+
+
+<div align="center">
+    <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+</div>
+
+<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
