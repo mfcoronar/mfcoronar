@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hi! I'm Fernanda  
+
 Data analyst with a background in architecture, focused on transforming data into solutions that create value in the financial, urban, and business sectors.
 
 <!--
