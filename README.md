@@ -1,6 +1,5 @@
 
-
-![Header](https://github.com/mfcoronar/mfcoronar/blob/main/Banner.png)
+![Header](https://github.com/mfcoronar/mfcoronar/blob/main/Hi!I%E2%80%99mFernanda.png) 
 
 <h3 align="center">Data Analyst | Machine Learning | Architect Designer </h3>
 
