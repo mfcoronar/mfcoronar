@@ -1,5 +1,8 @@
 # Hi! I'm Fernanda  
 
+
+<h3 align="center">Kaggle Expert | Data Science | Machine Learning | Graphic Design </h3>
+
 Data analyst with a background in architecture, focused on transforming data into solutions that create value in the financial, urban, and business sectors.
 
 <!--
@@ -39,8 +42,6 @@ Here are some ideas to get you started:
 ![Canva](https://img.shields.io/badge/-Canva-000000?style=flat&logo=canva&logoColor=00C4CC)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma&logoColor=F24E1E)
 
-<div align="center">
-    <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-</div>
+
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
