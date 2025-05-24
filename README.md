@@ -31,6 +31,13 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
 
+<h4 align="center"> Graphic Design </h4>
+<p align="center">
+![Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-000000?style=flat&logo=adobe-photoshop&logoColor=31A8FF)
+![Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-000000?style=flat&logo=adobe-illustrator&logoColor=FF9A00)
+![InDesign](https://img.shields.io/badge/-Adobe%20InDesign-000000?style=flat&logo=adobeindesign&logoColor=E30565)
+![Canva](https://img.shields.io/badge/-Canva-000000?style=flat&logo=canva&logoColor=00C4CC)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma&logoColor=F24E1E)
 
 <div align="center">
     <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
