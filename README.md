@@ -9,7 +9,6 @@
 <div align="center">
 🌱 I’m currently learning data visualization and deepening my skills in data science.<br/> 
 👯 I’m looking to collaborate on projects in the financial, business, and urban sectors.<br/>
-⚡ Fun fact: I can spend hours perfecting a dashboard and still call it a good time.
 </div>
 
 
